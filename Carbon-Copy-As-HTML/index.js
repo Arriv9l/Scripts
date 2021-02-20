@@ -1,13 +1,12 @@
 // ==UserScript==
 // @name         Carbon - Copy As HTML
-// @namespace    https://github.com/Arriv9l/Scripts/Carbon-Copy-As-HTML/
-// @version      0.1
+// @namespace    https://github.com/Arriv9l/Scripts/tree/main/Carbon-Copy-As-HTML/
+// @version      1.0.0
 // @description  add support for Copy As HTML
 // @author       Arriv9l
 // @match        https://carbon.now.sh/*
 // @grant        none
 // @icon         https://carbon.now.sh/favicon.ico
-// @run-at       document-end
 // ==/UserScript==
 
 (() => {
